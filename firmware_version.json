@@ -1,12 +1,14 @@
 {
-  "version": "v1.1",
-  "version_code": 11,
-  "file_size": 678144,
-  "crc32": 3058255581,
-  "crc32_hex": "0xB64946DD",
-  "download_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/download/v1.1/button_control.ino.bin",
-  "latest_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/latest/download/button_control.ino.bin",
+  "version": "v2.1.0",
+  "version_code": 210,
+  "file_size": 684064,
+  "crc32": 1399810901,
+  "crc32_hex": "0x536F6B55",
+  "download_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/download/v2.1.0/button_control.ino.enc",
+  "latest_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/latest/download/button_control.ino.enc",
+  "encrypted": true,
+  "plain_size": 684032,
   "changelog": [
-    "Test"
+    "Krosswire"
   ]
 }
