@@ -1,10 +1,10 @@
 {
-  "version": "v2.1.0",
-  "version_code": 210,
+  "version": "v3",
+  "version_code": 3,
   "file_size": 676544,
   "crc32": 1495736162,
   "crc32_hex": "0x59271F62",
-  "download_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/download/v2.1.0/button_control.ino.bin",
+  "download_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/download/v3/button_control.ino.bin",
   "latest_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/latest/download/button_control.ino.bin",
   "changelog": [
     "Turn signal sync override & smoother PWM transitions"
