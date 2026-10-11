@@ -1,10 +1,10 @@
 {
-  "version": "v4",
-  "version_code": 4,
+  "version": "v1.1",
+  "version_code": 11,
   "file_size": 678144,
   "crc32": 3058255581,
   "crc32_hex": "0xB64946DD",
-  "download_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/download/v4/button_control.ino.bin",
+  "download_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/download/v1.1/button_control.ino.bin",
   "latest_url": "https://github.com/Sunil1234267/moto-controller-firmware/releases/latest/download/button_control.ino.bin",
   "changelog": [
     "Test"
